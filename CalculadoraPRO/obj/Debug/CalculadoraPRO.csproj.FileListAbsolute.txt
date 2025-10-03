@@ -1,0 +1,11 @@
+C:\Users\ManuZa\source\repos\CalculadoraPRO\CalculadoraPRO\bin\Debug\CalculadoraPRO.exe.config
+C:\Users\ManuZa\source\repos\CalculadoraPRO\CalculadoraPRO\bin\Debug\CalculadoraPRO.exe
+C:\Users\ManuZa\source\repos\CalculadoraPRO\CalculadoraPRO\bin\Debug\CalculadoraPRO.pdb
+C:\Users\ManuZa\source\repos\CalculadoraPRO\CalculadoraPRO\obj\Debug\CalculadoraPRO.csproj.AssemblyReference.cache
+C:\Users\ManuZa\source\repos\CalculadoraPRO\CalculadoraPRO\obj\Debug\CalculadoraPRO.Form1.resources
+C:\Users\ManuZa\source\repos\CalculadoraPRO\CalculadoraPRO\obj\Debug\CalculadoraPRO.Properties.Resources.resources
+C:\Users\ManuZa\source\repos\CalculadoraPRO\CalculadoraPRO\obj\Debug\CalculadoraPRO.csproj.GenerateResource.cache
+C:\Users\ManuZa\source\repos\CalculadoraPRO\CalculadoraPRO\obj\Debug\CalculadoraPRO.csproj.CoreCompileInputs.cache
+C:\Users\ManuZa\source\repos\CalculadoraPRO\CalculadoraPRO\obj\Debug\CalculadoraPRO.exe
+C:\Users\ManuZa\source\repos\CalculadoraPRO\CalculadoraPRO\obj\Debug\CalculadoraPRO.pdb
+C:\Users\ManuZa\source\repos\CalculadoraPRO\CalculadoraPRO\obj\Debug\CalculadoraPRO.exe.config
